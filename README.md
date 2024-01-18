@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on automotive sector as **Embedded Software Engineer**
-- 🌱 I’m currently learning more about Embedded Linux, DSA, and software development
+- 🌱 I’m currently learning more about software development and DSA 
 
 <!--
 **reymor/reymor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
